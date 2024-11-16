@@ -1,16 +1,16 @@
 repos:
- -repo: com.poki.yohoho-io
- info: YoHoHo.io
- developers: old-cpu
--repo: com.poki.fancy-pants-2
- info: Fancy Pants 2
- developers: old-cpu
--repo: com.poki.stickman-escape
- info: Stickman Escape
- developers: old-cpu
--repo: com.poki.tiny-dangerous-dungeons
- info: Tiny Dangerous Dungeons
- developers: old-cpu
- -repo: com.poki.escaping-the-prison
- info: Escaping the Prison
- developers: old-cpu
+- repo: com.poki.yohoho-io
+  info: YoHoHo.io
+  developers: old-cpu
+- repo: com.poki.fancy-pants-2
+  info: Fancy Pants 2
+  developers: old-cpu
+- repo: com.poki.stickman-escape
+  info: Stickman Escape
+  developers: old-cpu
+- repo: com.poki.tiny-dangerous-dungeons
+  info: Tiny Dangerous Dungeons
+  developers: old-cpu
+- repo: com.poki.escaping-the-prison
+  info: Escaping the Prison
+  developers: old-cpu
