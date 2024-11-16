@@ -1,2 +1,16 @@
-tip: 为避免多个 PR 冲突，在 PR 合并后 repos.yaml 会被清空，历史提交请查看 history/repos_history.yaml
 repos:
+ -repo: com.poki.yohoho-io
+ info: YoHoHo.io
+ developers: old-cpu
+-repo: com.poki.fancy-pants-2
+ info: Fancy Pants 2
+ developers: old-cpu
+-repo: com.poki.stickman-escape
+ info: Stickman Escape
+ developers: old-cpu
+-repo: com.poki.tiny-dangerous-dungeons
+ info: Tiny Dangerous Dungeons
+ developers: old-cpu
+ -repo: com.poki.escaping-the-prison
+ info: Escaping the Prison
+ developers: old-cpu
